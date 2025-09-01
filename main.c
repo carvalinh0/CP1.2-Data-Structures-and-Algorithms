@@ -3,6 +3,12 @@
 #include<stdlib.h>
 #include<string.h>
 
+//
+// note-se que não foi usado nem o CLOCK_PER_SEC nem o algoritimo do quicksort que está no pdf, pois
+// eu não consegui implementar o CLOCK_PER_SEC (meu antivirus apagava o arquivo e me impedia de fazer a analise)
+// já o quicksort eu tentei fazer por conta própria para meios de estudo e desafio
+//
+
 #define REP 5
 const unsigned short N[] = {1000, 5000, 10000}; // Máximo de 65535
 
