@@ -16,7 +16,7 @@ O programa implementa e compara a performance de três algoritmos clássicos de 
 - [Tipos de dados de teste](#tipos-de-dados-de-teste)
 - [Análise](#analise)
 - [Como Executar](#como-executar)
-- [rodando (windows ou linux)](#rodando-windows-ou-linux)
+- [Rodando (windows ou linux)](#rodando-windows-ou-linux)
 
 ---
 
@@ -111,7 +111,7 @@ O programa testa os algoritmos com quatro tipos diferentes de arranjos de dados:
 gcc main.c -o main
 ```
 
-### rodando (windows ou linux)
+### Rodando (windows ou linux)
 ````bash
 ./main
 ````
